@@ -10,3 +10,6 @@
 [submodule "lib/luajit"]
 	path = lib/luajit
 	url = https://github.com/LuaJIT/LuaJIT.git
+[submodule "lib/luau"]
+	path = lib/luau
+	url = https://github.com/luau-lang/luau.git
